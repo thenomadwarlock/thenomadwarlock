@@ -12,7 +12,7 @@
      target="_blank"
      rel="noopener noreferrer"
      aria-label="Ver portfolio de Adrián Heredia Pozo en Behance">
-    Adrián ↗
+    Adrián
   </a>
 </h1>
 <!--
