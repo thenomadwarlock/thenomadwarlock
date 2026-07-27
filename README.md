@@ -11,4 +11,5 @@
     alt="Portfolio de Adrián Heredia"
     width="100%"
   >
+  [![LinkedIn Badge](https://img.shields.io/badge/-Tu_Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianhp)](https://www.linkedin.com/in/adrianhp)   
 </p>
